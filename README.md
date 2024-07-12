@@ -8,8 +8,9 @@
 </h1>
  
 
-
+<p align='center'>
 I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for turning raw data into actionable insights. With a strong background in data analysis and visualization, I enjoy working on projects that leverage data to solve real-world problems. Always eager to collaborate on innovative projects and ideas. Feel free to connect with me.
+</p>
 
 <br>
 <h3 align="Center">Connect with me:</h3>
@@ -20,7 +21,15 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 
 <br>
 
-## ⚡ Technologies
+<h2>
+⚡ Technologies
+</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,anaconda,aws,pr,ae,xd,python,mongodb,postgresql,mysql,flask,grafana,arduino,matlab,raspberrypi" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,anaconda,aws,pr,ae,xd,python,mongodb" /> 
+    <img src="https://skillicons.dev/icons?i=angular,postgresql,mysql,flask,grafana,arduino,matlab,raspberrypi" /> 
+    <img src="https://img.icons8.com/?size=48&id=qYfwpsRXEcpc&format=png" style="display: inline-block; margin-left: 5px;" />
 </div>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
