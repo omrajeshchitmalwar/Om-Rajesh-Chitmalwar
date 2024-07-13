@@ -36,7 +36,7 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <br>
 
 <h2 align="left">⚡ Stats ⚡</h2>
- <div style="display: flex; justify-content: space-around;">
+ <div align="center";style=display: flex; justify-content: space-around;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omrajeshchitmalwar&show_icons=true&locale=en" alt="omrajeshchitmalwar" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrajeshchitmalwar&" alt="omrajeshchitmalwar" />
 </div>
