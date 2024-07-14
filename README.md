@@ -68,4 +68,4 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Om Rajesh Chitmalwar</a></p>
 
 
-![snake svg](https://github.com/omrajeshchitmalwar/omrajeshchitmalwar/blob/output/github-contribution-grid-snake.svg)
+
