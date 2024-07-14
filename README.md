@@ -48,6 +48,10 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 
 <br>
 
+![snake gif](https://github.com/omrajeshchitmalwar/omrajeshchitmalwar/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
