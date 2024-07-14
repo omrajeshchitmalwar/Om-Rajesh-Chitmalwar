@@ -22,10 +22,11 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omrajeshchitmalwar&label=Profile%20views&color=0e75b6&style=flat" alt="omrajeshchitmalwar" /> </p>
 
 <br>
+<br>
 
 <div align='center'>
 <h2>
-⚡ Technologies
+⚡ Technologies ⚡
 </h2>
 </div>
 
@@ -35,6 +36,8 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
     <img src="https://img.icons8.com/?size=60&id=qYfwpsRXEcpc&format=png" style="display: inline-block; margin-left: 5px; vertical-align: middle;" />
 </div>
 
+<br>
+<br>
 <br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -47,15 +50,8 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 
 
 <br>
-
-<h2 align="center">🐍 Contributions 🐍</h2>
- <div align="center";style=display: flex; justify-content: space-around;">
-
- ![snake svg](https://github.com/omrajeshchitmalwar/omrajeshchitmalwar/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
-
 <br>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
