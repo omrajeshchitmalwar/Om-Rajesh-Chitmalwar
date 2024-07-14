@@ -39,8 +39,10 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 
 <h2 align="center">⚡ Stats ⚡</h2>
  <div align="center";style=display: flex; justify-content: space-around;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omrajeshchitmalwar&show_icons=true&locale=en" alt="omrajeshchitmalwar" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omrajeshchitmalwar&" alt="omrajeshchitmalwar" />
+     
+  ![Om Chitmalwar' s GitHub stats](https://github-readme-stats.vercel.app/api?username=omrajeshchitmalwar\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues) <br>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=omrajeshchitmalwar&theme=midnight-purple)](https://git.io/streak-stats)
+  
 </div>
 
 
@@ -48,7 +50,12 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
+<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Om Rajesh Chitmalwar</a></p>
+
 
