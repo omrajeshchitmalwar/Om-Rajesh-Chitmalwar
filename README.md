@@ -51,7 +51,7 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <h2 align="center">🐍 Contributions 🐍</h2>
  <div align="center";style=display: flex; justify-content: space-around;">
 
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+ ![snake svg](https://github.com/omrajeshchitmalwar/omrajeshchitmalwar/blob/output/github-contribution-grid-snake.svg)
     
 </div>
 
@@ -68,3 +68,4 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Om Rajesh Chitmalwar</a></p>
 
 
+![snake svg](https://github.com/omrajeshchitmalwar/omrajeshchitmalwar/blob/output/github-contribution-grid-snake.svg)
