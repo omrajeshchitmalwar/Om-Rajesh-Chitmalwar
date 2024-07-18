@@ -19,7 +19,10 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <a href="[https://instagram.com/omchitmalwar](https://www.instagram.com/omchitmalwar/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omchitmalwar" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrajeshchitmalwar&label=Profile%20views&color=0e75b6&style=flat" alt="omrajeshchitmalwar" /> </p>
+<br>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrajeshchitmalwar&label=Profile%20views&color=0e75b6&style=flat" alt="omrajeshchitmalwar" />  <img src = "https://hits.sh/github.com/omrajeshchitmalwar.svg?extraCount=5000" width = 8%>  </p>
 
 <br>
 <br>
