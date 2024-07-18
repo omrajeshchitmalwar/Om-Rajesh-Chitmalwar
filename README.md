@@ -53,7 +53,6 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <br>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -63,5 +62,5 @@ I am <b>Om Rajesh Chitmalwar</b>, a passionate data analyst with a knack for tur
 <br>
 <p align="right" > Created with 🧡 by <b>Om Rajesh Chitmalwar<b></p>
 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
